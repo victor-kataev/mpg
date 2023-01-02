@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-MultiplayerSessions.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"Z:\Programmers\devVictor\mpg\mpg\Intermediate\Build\Win64\mpgEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"Z:\Programmers\devVictor\mpg\mpg\Plugins\MultiplayerSessions\Intermediate\Build\Win64\UE4Editor\Development\MultiplayerSessions\Module.MultiplayerSessions.cpp.obj"
+"Z:\Programmers\devVictor\mpg\mpg\Plugins\MultiplayerSessions\Intermediate\Build\Win64\UE4Editor\Development\MultiplayerSessions\Module.MultiplayerSessions.gen.cpp.obj"
+"Z:\Programmers\devVictor\mpg\mpg\Plugins\MultiplayerSessions\Intermediate\Build\Win64\UE4Editor\Development\MultiplayerSessions\Default.rc2.res"
+/OUT:"Z:\Programmers\devVictor\mpg\mpg\Plugins\MultiplayerSessions\Intermediate\Build\Win64\UE4Editor\Development\MultiplayerSessions\UE4Editor-MultiplayerSessions.lib"
